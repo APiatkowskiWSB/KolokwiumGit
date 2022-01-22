@@ -9,3 +9,8 @@ body {
     align-items: baseline;
     animation: alternate;
 }
+
+footer {
+    color: black;
+    background-color: blue;
+}
