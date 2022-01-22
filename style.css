@@ -8,6 +8,15 @@ body {
     font-size: large;
     align-items: baseline;
     animation: alternate;
+<<<<<<< HEAD
     width: 10px;
     padding-left: 0%;
+=======
+}
+
+footer {
+    color: black;
+    background-color: blue;
+    font-size: large;
+>>>>>>> nowaGalaz
 }
