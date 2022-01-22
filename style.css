@@ -6,4 +6,6 @@ body {
 .p {
     color: black;
     font-size: large;
+    align-items: baseline;
+    animation: alternate;
 }
